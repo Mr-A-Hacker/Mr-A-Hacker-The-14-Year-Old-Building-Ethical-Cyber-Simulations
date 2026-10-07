@@ -1,3 +1,10 @@
+> ## 👋 Start Here
+> A project documenting ethical cybersecurity experiments. **For users:** the goal is to make security concepts understandable through controlled simulations, local labs, and defensive thinking.
+>
+> **Safety:** Use security, camera, and network features only on systems and networks you own or are explicitly authorized to test.
+
+---
+
 # Mr-A-Hacker-The-14-Year-Old-Building-Ethical-Cyber-Simulations
 
 ## 👤 About Me — Mr-A-Hacker
